@@ -25,7 +25,7 @@ Climate change is one of the greatest threats to humanity, biodiversity, and eco
 
 Before the COVID-19 crisis (2018-2019), the total electric power generated worldwide was around 26,000 TWh with 10 % nuclear, 63 % fossil fuels (37 % coal and 23 % gas), and 26 % renewables (16 % hydro, 4.8 % wind, and 2.2 % solar).
 
-According to the last [IEA'sfigures](https://www.iea.org/energy-system/electricity#sources-of-electricity):
+According to the last [IEA's figures](https://www.iea.org/energy-system/electricity#sources-of-electricity):
 
 **Coal**: They still account for just over a third of the world's electricity production, despite being the most carbon-intensive fossil fuel.
   
@@ -104,7 +104,7 @@ In one of the last released book named "How the World Really Works" (2022), Vacl
 
 > Electricity is only 18 percent of total final global energy consumption, and the decarbonization of more than 80 percent of final energy uses—by industries, households, commerce, and transportation—will be even more challenging than the decarbonization of electricity generation.
 
-## TODO NEXT
+## TODO NEXT
 
 - [ ] Fact check this information and clarify the pros and cons.
 - [ ] Check how much electricity accounts in the total energy mix (between 20 and 25 % according to my first estimation).
