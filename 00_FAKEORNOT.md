@@ -54,7 +54,10 @@ Check the figures above:
   > After allocating electricity and heat emissions to final sectors, industry continued to be the largest emitting sector, with over 40% of global emissions in 2019. Emissions in the transport sector increased to account for 27% of the global emissions in 2019, while buildings related emissions slightly decreased to represent 25% of global emissions in 2019. 
 - [ ] Give also the figures for the energy mix (primary, secondary, and final on the Sankey diagram).
 - [ ] Show the difference and evolution since IPCC was created and from the pre-industrial revolution.
-
+- [ ] What are the last figures for renewables investments?
+  - I have the following: Solar and wind accounted for only 3% in final energy needs. With more than 3 trillion in 20 years of investments.
+- Compare capacity installed and electricity generation, for example with France we have the following figures from 2016:
+  - The approximated total capacity is the following (2016 figures): 131 GW with 48 % nuclear, 20 % hydro, and 15 % of renewables. Which is different from the generation: 72 % nuclear, 12 % hydro, and 5% wind plus solar.
 
 # The Myths about Nuclear Power
 
@@ -108,3 +111,18 @@ In one of the last released book named "How the World Really Works" (2022), Vacl
 
 - [ ] Fact check this information and clarify the pros and cons.
 - [ ] Check how much electricity accounts in the total energy mix (between 20 and 25 % according to my first estimation).
+
+# Useful Mathematical Relationships
+
+It is important to rely on some useful concept in order to compare the different generation of electricity.
+
+## Capacity factor
+
+The net capacity factor is the unit less ratio of an actual electrical energy output over a given period of time to the maximum possible electrical energy output over that period. We are going to give the largest and average example for each power generating plant type.
+
+### Hydropower plant generation
+
+In 2017, Three Gorges dam in China nameplate capacity was 22,500 MW, the largest power generating station in the world by installed capacity, in 2015: 87 TWh.
+
+$$C_{\text{hydro}} = \dfrac{87,000,000~\text{MWh}}{365~\text{days} \times 24~\text{h/day} \times 22,500~\text{MW}} = 45~\%$$
+
