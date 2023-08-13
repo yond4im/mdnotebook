@@ -122,7 +122,23 @@ The net capacity factor is the unit less ratio of an actual electrical energy ou
 
 ### Hydropower plant generation
 
-In 2017, Three Gorges dam in China nameplate capacity was 22,500 MW, the largest power generating station in the world by installed capacity, in 2015: 87 TWh.
+In 2022, Three Gorges dam, the biggest dam by nameplate capacity installed in China (22,500 MW) produced in 2021: 103.649 TWh.
 
-$$C_{\text{hydro}} = \dfrac{87,000,000~\text{MWh}}{365~\text{days} \times 24~\text{h/day} \times 22,500~\text{MW}} = 45~\%$$
+$$C_{\text{hydro}} = \dfrac{103,649,000~\text{MWh}}{365~\text{days} \times 24~\text{h/day} \times 22,500~\text{MW}} = 52.6~\%$$
 
+A capacity factor of 52.6 % means that the Horns Rev 3 wind farm can generate electricity for an average of 52.6 % of the time.
+
+Other examples summarized can be summarized and ranked by their capacity factors.
+
+| Power plant name | Capacity | Commissionning | Output | Type |
+| ---------------- | -------- | -------------- | ------ | ---- |
+| Horns Rev 3 | 406.7 MW | 2019-08 | 1.3 TWh (36.5 %)| Wind OFF (DK)|
+| Bhadla Solar Park | 2,245 MW | 2019-03 | 4.8 TWh (22 %) | Solar FARM (IN) |
+
+We can see that conventional and dispatchable power plants have a better capacity factor than intermittent renewable energy sources (wind and solar). However, this is not the only way to compare these types of electricity generation.
+
+## TODO NEXT
+
+- [ ] Environmental risks associated with this facility.
+- [ ] Other way to compare rather than capacity factor (conversion efficiency for example).
+- [ ] Check your figures again...
