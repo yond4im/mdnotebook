@@ -14,11 +14,6 @@ Before we start, some definitions are important to clarify...
 
 - Additional definitions to come soon...
 
-## TODO NEXT
-
-- [ ] Check if there is a better definition of *low-carbon* in IPCC's AR6.
-- [ ] Compare the defition with IEA.
-
 ## How are we going to produce electricity in a clean way?
 
 Climate change is one of the greatest threats to humanity, biodiversity, and eco-systems in the 21st century. With the electricity sector accounting for a quarter of human emissions and around 42 % of global CO<sub>2</sub> emissions, any transition to climate change or a low-carbon economy will need to place the power grid industry at the heart of its solution.
@@ -45,19 +40,7 @@ According to the last World Energy Outlook (WEO 2022 Table 6.1, p. 281), the glo
 
 ## TODO NEXT
 
-Check the figures above:
 
-- [ ] According to the IPCC AR6, WGIII report: *The electricity sector remains the single largest source of energy sector CO2 emissions, accounting for about 36% in 2019*.
-- [ ] According to the [IEA](https://www.iea.org/topics/climate-change): *Power generation is the largest emissions driver*:
-  > Power generation and transport together accounted for over two thirds of total emissions in 2019 and have been responsible for almost all global growth since 2010. The remaining third was mainly associated with the industry and buildings sectors.
-  
-  > After allocating electricity and heat emissions to final sectors, industry continued to be the largest emitting sector, with over 40% of global emissions in 2019. Emissions in the transport sector increased to account for 27% of the global emissions in 2019, while buildings related emissions slightly decreased to represent 25% of global emissions in 2019. 
-- [ ] Give also the figures for the energy mix (primary, secondary, and final on the Sankey diagram).
-- [ ] Show the difference and evolution since IPCC was created and from the pre-industrial revolution.
-- [ ] What are the last figures for renewables investments?
-  - I have the following: Solar and wind accounted for only 3% in final energy needs. With more than 3 trillion in 20 years of investments.
-- Compare capacity installed and electricity generation, for example with France we have the following figures from 2016:
-  - The approximated total capacity is the following (2016 figures): 131 GW with 48 % nuclear, 20 % hydro, and 15 % of renewables. Which is different from the generation: 72 % nuclear, 12 % hydro, and 5% wind plus solar.
 
 # The Myths about Nuclear Power
 
@@ -112,7 +95,7 @@ In one of the last released book named "How the World Really Works" (2022), Vacl
 - [ ] Fact check this information and clarify the pros and cons.
 - [ ] Check how much electricity accounts in the total energy mix (between 20 and 25 % according to my first estimation).
 
-# Useful Mathematical Relationships
+## Useful Mathematical Relationships
 
 It is important to rely on some useful concept in order to compare the different generation of electricity.
 
@@ -137,8 +120,54 @@ Other examples summarized can be summarized and ranked by their capacity factors
 
 We can see that conventional and dispatchable power plants have a better capacity factor than intermittent renewable energy sources (wind and solar). However, this is not the only way to compare these types of electricity generation.
 
+### Wind power plant
+
+### Solar PV power plant
+
+## Useful definitions
+
+In this section, we will review the useful definitions that can be found for both energy production and consumption.
+
+### Demand side management and response
+
+Energy demand management is the modification of consumer demand for energy through various methods such as financial incentives and behavioural change through education (the latter may lean towards sobriety). It consists of two main applications:
+
+- Demand-side management (DSM)
+- Demand-side response (DSR)
+
+We will go about the main challenges for the future of energy securities and consumption in the low carbon transition we tackle in this century.
+
+This is an important part of the power grid: the demand side management.
+
+### Energy productivity and efficiency
+
+Energy productivity refers to reductions in energy use per unit of economic output. Using less power (and therefore energy) to perform the same tasks.
+
+Energy efficiency refers to reductions in energy use per unit of physical output. Using less power to transform energy in a specific system.
+
+The second one may involve a permanent reduction of demand by using more efficient load-intensive appliances such as water heaters or refrigerators.
+
+
 ## TODO NEXT
 
+Check the figures above:
+
+- [ ] According to the IPCC AR6, WGIII report: *The electricity sector remains the single largest source of energy sector CO2 emissions, accounting for about 36% in 2019*.
+- [ ] According to the [IEA](https://www.iea.org/topics/climate-change): *Power generation is the largest emissions driver*:
+  > Power generation and transport together accounted for over two thirds of total emissions in 2019 and have been responsible for almost all global growth since 2010. The remaining third was mainly associated with the industry and buildings sectors.
+  > After allocating electricity and heat emissions to final sectors, industry continued to be the largest emitting sector, with over 40% of global emissions in 2019. Emissions in the transport sector increased to account for 27% of the global emissions in 2019, while buildings related emissions slightly decreased to represent 25% of global emissions in 2019. 
+- [ ] Give also the figures for the energy mix (primary, secondary, and final on the Sankey diagram).
+- [ ] Show the difference and evolution since IPCC was created and from the pre-industrial revolution.
+- [ ] What are the last figures for renewables investments?
+  - I have the following: Solar and wind accounted for only 3% in final energy needs. With more than 3 trillion in 20 years of investments.
+- Compare capacity installed and electricity generation, for example with France we have the following figures from 2016:
+  - The approximated total capacity is the following (2016 figures): 131 GW with 48 % nuclear, 20 % hydro, and 15 % of renewables. Which is different from the generation: 72 % nuclear, 12 % hydro, and 5% wind plus solar.
 - [ ] Environmental risks associated with this facility.
 - [ ] Other way to compare rather than capacity factor (conversion efficiency for example).
 - [ ] Check your figures again...
+- [ ] Check if there is a better definition of *low-carbon* in IPCC's AR6.
+- [ ] Compare the defition with IEA.
+- [ ] Definition of dynamic demand.
+- [ ] Definition of national scale.
+- [ ] Definition of utility scale.
+- [ ] Definition of household scale.
